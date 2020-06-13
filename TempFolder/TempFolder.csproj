@@ -6,6 +6,10 @@
         <Title>TempFolder</Title>
         <Authors>OnlyFart</Authors>
         <Description>Helper for creating temporary folders that are automatically deleted after use</Description>
+        <PackageProjectUrl>https://github.com/OnlyFart/TempFolder</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/OnlyFart/TempFolder</RepositoryUrl>
+        <PackageTags>folder tempfolder</PackageTags>
+        <PackageLicenseUrl>https://licenses.nuget.org/Unlicense</PackageLicenseUrl>
     </PropertyGroup>
 
 </Project>
