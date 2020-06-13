@@ -1,4 +1,7 @@
 # TempFolder
+
+[![NuGet version (TempFolder)](https://img.shields.io/nuget/v/TempFolder.svg?style=flat-square)](https://www.nuget.org/packages/TempFolder/)
+
 Using
 ```
 using (var temp = TempFolderFactory.Create()) {
