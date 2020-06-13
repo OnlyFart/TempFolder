@@ -1,7 +1,9 @@
 # TempFolder
 Using
 ```
-using (var tempFolderPath = TempFolderFactory.Create()) {
+using (var temp = TempFolderFactory.Create()) {
+  var tempPath = temp.Path;
+  
   <do something>
 }
 ```
