@@ -3,7 +3,7 @@
 [![NuGet version (TempFolder)](https://img.shields.io/nuget/v/TempFolder.svg?style=flat-square)](https://www.nuget.org/packages/TempFolder/)
 
 Using
-```
+```csharp
 using (var temp = TempFolderFactory.Create()) {
   var tempPath = temp.Path;
   
